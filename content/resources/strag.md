@@ -4,6 +4,8 @@ description: This resource discusses strategic agenda and corporate strategic th
 file: /courses/15-904-strategic-management-ii-fall-2005/4bc12cccd53ca8f8ffa4dfea9dc7c517_strag.pdf
 file_size: 712086
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,8 @@ description: This resource discusses customer segmentation and its main characte
 file: /courses/15-904-strategic-management-ii-fall-2005/79babe0b6b5c50206a0bda471c518244_dm_csstd_dmk2_2b.pdf
 file_size: 424631
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

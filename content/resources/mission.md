@@ -5,6 +5,8 @@ description: This resource discusses mission of the firm, mission statement, cas
 file: /courses/15-904-strategic-management-ii-fall-2005/a3cd117b92fc9764b79c54934bbc4877_mission.pdf
 file_size: 976343
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

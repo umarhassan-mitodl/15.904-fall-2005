@@ -7,6 +7,8 @@ description: This resource discusses how to capture critical tasks of strategy w
 file: /courses/15-904-strategic-management-ii-fall-2005/2787375e7cedffe678c256fdb022b45f_dm_captskstrshrt.pdf
 file_size: 854826
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
