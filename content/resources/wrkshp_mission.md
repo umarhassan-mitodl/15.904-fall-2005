@@ -6,6 +6,8 @@ description: This resource is a workshop on the statement of current and future 
 file: /courses/15-904-strategic-management-ii-fall-2005/4abed0357d6b0be2db3818cfe9b87162_wrkshp_mission.pdf
 file_size: 2201724
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

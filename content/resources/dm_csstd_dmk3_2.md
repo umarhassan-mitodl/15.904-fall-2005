@@ -5,6 +5,8 @@ description: This resource discusses mission of the business, unique competencie
 file: /courses/15-904-strategic-management-ii-fall-2005/23cc14f9fc79dd94ed25e061ea6a8dd0_dm_csstd_dmk3_2.pdf
 file_size: 295223
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

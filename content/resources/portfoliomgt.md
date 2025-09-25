@@ -6,6 +6,8 @@ description: This resource discusses basic tools for portfolio management - Grow
 file: /courses/15-904-strategic-management-ii-fall-2005/f7000f098c0b0cb975255f3e1ec200e3_portfoliomgt.pdf
 file_size: 414865
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
