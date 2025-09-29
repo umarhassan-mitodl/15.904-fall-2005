@@ -26,6 +26,7 @@
     "website": "15-904-strategic-management-ii-fall-2005"
   },
   "course_title": "Strategic Management II",
+  "hide_download": true,
   "course_description": "This course is intended to be an extension of course _15.902 Strategic Management I,_ with the purpose of allowing the students to experience an in-depth application of the concepts and frameworks of strategic management. Throughout the course, Prof. Arnoldo Hax will discuss the appropriate methodologies, concepts, and tools pertinent to strategic analyses and will illustrate their use by discussing many applications in real-life settings, drawn from his own personal experiences.",
   "department_numbers": [
     "15"
@@ -36,6 +37,7 @@
     "content": "6de545cc-0816-108c-89b1-56ea4e18abd8",
     "website": "15-904-strategic-management-ii-fall-2005"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes"
   ],
