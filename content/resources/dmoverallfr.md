@@ -5,8 +5,6 @@ description: This resource discusses the integrative strategic framework of Delt
 file: /courses/15-904-strategic-management-ii-fall-2005/2b11df6b33ca0687285729ec6cdd1c83_dmoverallfr.pdf
 file_size: 196307
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,8 +6,6 @@ description: This resource discusses a statement of the current and future expec
 file: /courses/15-904-strategic-management-ii-fall-2005/194dd668da04580072907c946d94fce4_mission_forms.pdf
 file_size: 637102
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

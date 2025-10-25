@@ -5,8 +5,6 @@ description: This resource discusses Delta Model framework, balanced scorecards,
 file: /courses/15-904-strategic-management-ii-fall-2005/474d96f32695edb90a50f93d7857650d_met_fineval.pdf
 file_size: 564881
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

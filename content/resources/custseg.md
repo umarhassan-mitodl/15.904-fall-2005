@@ -5,8 +5,6 @@ description: This resource discusses the reasons and criteria for the customer s
 file: /courses/15-904-strategic-management-ii-fall-2005/2971481de51786a9d0a4ebdc04a0a201_custseg.pdf
 file_size: 915105
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
